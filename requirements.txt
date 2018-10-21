@@ -1,0 +1,12 @@
+Keras==2.2.2
+Keras-Applications==1.0.4
+Keras-Preprocessing==1.0.2
+numpy==1.15.0
+pandas==0.23.1
+scikit-learn==0.19.1
+scipy==1.1.0
+sklearn==0.0
+tensorboard==1.9.0
+tensorflow-gpu==1.9.0
+urlparser==0.1.2
+
